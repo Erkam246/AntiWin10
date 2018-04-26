@@ -1,5 +1,6 @@
 name: AntiWin10
-main: erkam2002\AntiWin
-api: 3.0.0
-version: 1.0
-author: erkam2002
+main: ErkamKahriman\AntiWin10\AntiWin10
+api: 3.0.1
+version: 2.0
+author: ErkamKahriman
+description: "Prevent windows 10 players from joining our server"
